@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "XmBindIdSDK",
+        "repositoryURL": "https://github.com/TransmitSecurity/bindid-ios-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "d78fc420d8d4c3ba4cd4ead939e390c461ca8646",
+          "version": "1.15.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
